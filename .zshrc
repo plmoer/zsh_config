@@ -1,6 +1,7 @@
  PATH=/bin
 export PATH
 PATH=/usr/bin:$PATH
+PATH=/usr/local/bin:$PATH
 export PATH=/opt/homebrew/bin:$PATH
 
 source /Users/Shared/git-completion.zsh 
